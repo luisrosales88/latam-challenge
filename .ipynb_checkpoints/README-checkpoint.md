@@ -1,2 +1,0 @@
-# latam-challenge
-# master
